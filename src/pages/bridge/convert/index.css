@@ -1,0 +1,18 @@
+.ant-modal-close-x {
+  color: white;
+}
+
+.ant-modal-content {
+  background-color: transparent;
+}
+
+.active-btn {
+  background-color: #86c540 !important;
+  color: white !important;
+}
+
+.ant-select-dropdown-placement-bottomLeft {
+  background-color: #303d67 !important;
+  border-style: none !important;
+}
+

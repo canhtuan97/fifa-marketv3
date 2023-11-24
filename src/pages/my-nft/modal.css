@@ -1,0 +1,21 @@
+.ReactModal__Overlay {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    z-index: 10;
+
+}
+.id-sm {
+    font-size: 12px !important;
+}
+.roin {
+    color: rgba(255,255,255,0.5);
+}
+.inputp {
+        background-color: transparent;
+    color: #fff;
+    height: 36px;
+    /* padding: 4px 6px 4px 42px; */
+    font-size: 13px;
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+}
+

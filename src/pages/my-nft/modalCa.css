@@ -1,0 +1,11 @@
+.ReactModal__Overlay {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    z-index: 999999;
+
+}
+.id-sm {
+    font-size: 11px !important;
+}
+.roin {
+    color: rgba(255,255,255,0.5);
+}

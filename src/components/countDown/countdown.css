@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700|Montserrat:900");
+.cd-li {
+  text-align: center;
+  display: inline-block;
+  font-size: 1em;
+  list-style-type: none;
+  padding: 1em;
+  text-transform: uppercase;
+  /* background-color: red; */
+  margin: 0 0.3rem;
+  border-radius: 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cd-li span {
+  text-align: center;
+  display: block;
+  font-size: 3rem;
+  font-family: "Montserrat", sans-serif;
+  /* color: #183059; */
+  color: white;
+}
+
+@media all and (max-width: 768px) {
+  .cd-li {
+    font-size: 0.5rem;
+  }
+
+  .cd-li span {
+    font-size: 1.5rem;
+  }
+}

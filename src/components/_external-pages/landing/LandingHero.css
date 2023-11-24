@@ -1,0 +1,17 @@
+.css-11bj8g3 {
+  min-height: 250px !important;
+}
+
+.css-2xw8t9 {
+  min-height: 250px !important;
+}
+
+.css-1bujrhw {
+  min-height: 100vh !important;
+}
+
+@media screen and (max-width: 768px) {
+  .img-team {
+    padding-bottom: 0 !important;
+  }
+}

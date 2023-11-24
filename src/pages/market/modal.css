@@ -1,0 +1,36 @@
+.ReactModal__Overlay {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    z-index: 999999;
+
+}
+
+.id-sm {
+    font-size: 11px !important;
+}
+
+.roin {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.roinp {
+    text-align: center;
+    margin-top: 5px;
+    width: 110px;
+    font-size: 12px;
+
+    @media (max-width: 768px) {
+        width: 100px;
+        font-size: 10px;
+    }
+
+}
+
+/* @media (min-width: 360px) {
+    .roinp {
+        text-align: center;
+        margin-top: 5px;
+        max-width: 70ox;
+        font-size: 10px;
+
+    }
+} */
